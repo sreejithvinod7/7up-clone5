@@ -1,0 +1,190 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+
+.header {
+  width: 100%;
+  height: 114px;
+  background-color: rgb(247, 154, 131);
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  z-index: 100;
+}
+body {
+  margin: 0px;
+}
+.innerdiv1 {
+  width: 60%;
+  padding-top: 5px;
+}
+.innerdiv2 {
+  width: 40%;
+  font-size: 22px;
+  font-family: "Roboto Condensed", serif;
+  font-weight: 430;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+  color: #fff;
+}
+.logo {
+  width: 83px;
+  height: 74px;
+  margin-left: 23px;
+  margin-top: 15px;
+  cursor: pointer;
+}
+.logosocial {
+  width: 29px;
+  cursor: pointer;
+}
+.forthdiv {
+  padding-left: 25px;
+}
+.mainbody {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image3 {
+  width: 1519px;
+  height: 728px;
+  margin-top: 116px;
+}
+.sub body {
+  width: 1519px;
+  height: 728px;
+}
+.para1 {
+  font-size: 73px;
+  position: absolute;
+  top: 42%;
+  left: 3%;
+  padding-left: 100px;
+  color: #fff;
+  font-weight: 800;
+  font-family: "Lilita One", serif;
+  line-height: 74px;
+}
+.image2 {
+  width: 1519px;
+  height: 728px;
+  margin-top: -23px;
+}
+.button {
+  background: transparent;
+  font-size: 17px;
+  color: #fff;
+  border: 2px solid white;
+  border-radius: 30px;
+  position: absolute;
+  top: 75%;
+  left: 10%;
+  padding: 10px;
+}
+.sub_body_two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.image2button {
+  width: 42%;
+  background-color: rgba(10, 91, 43, 0.8);
+  border-radius: 100px;
+  padding: 15px;
+  position: absolute;
+  top: 154%;
+}
+.recipes1 {
+  font-size: 36px;
+  font-family: "Roboto Condensed", serif;
+  color: #fff;
+  font-weight: 400;
+}
+.para_two {
+  font-size: 16px;
+  padding: 6px;
+  font-family: "Roboto Condensed", serif;
+  color: #fff;
+  margin-top: -13px;
+}
+.button2 {
+  font-size: 19px;
+  padding: 7px 36px;
+  font-family: "Roboto Condensed", serif;
+  background: transparent;
+  color: #fff;
+  border: 2px solid white;
+  border-radius: 30px;
+  margin-top: 7px;
+}
+.image3button {
+  width: 42%;
+  background-color: rgba(10, 91, 43, 0.8);
+  border-radius: 100px;
+  padding: 15px;
+  position: absolute;
+  top: 252%;
+}
+.footer {
+  width: 100%;
+  height: 127px;
+  background: #3e3e3e;
+  font-family: "Roboto Condensed", serif;
+}
+.footer_flex1 {
+  display: flex;
+  font-size: 15px;
+  color: #fff;
+  justify-content: center;
+  flex-direction: row;
+  padding-top: 0px;
+  gap: 23px;
+}
+.footerflux2 {
+  display: flex;
+  color: #ffff;
+  padding-top: 9px;
+  font-size: 13px;
+  justify-content: center;
+  margin: -17px;
+}
+.products:hover{
+  text-decoration: underline;
+}
+.recipes:hover{
+  text-decoration: underline;
+}
+.stores:hover{
+  text-decoration: underline;
+}
+.para3:hover{
+  text-decoration: underline;
+}
+.para4:hover{
+  text-decoration: underline;
+}.para5:hover{
+  text-decoration: underline;
+}
+
+.para6:hover{
+  text-decoration: underline;
+}
+.para7:hover{
+  text-decoration: underline;
+}
+.para8:hover{
+  text-decoration: underline;
+}
+.para9:hover{
+  text-decoration: underline;
+}
+.para10:hover{
+  text-decoration: underline;
+}
